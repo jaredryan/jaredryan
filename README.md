@@ -38,11 +38,11 @@ After software roles at IBM and MANTL, I spent several years building and operat
 ## Technologies
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,express,postgres,mongodb,prisma,astro,cs,unity&theme=light&perline=12" alt="JavaScript, TypeScript, React, Next.js, Node.js, Express, PostgreSQL, MongoDB, Prisma, Astro, C#, and Unity" />
+  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,postgres,mongodb,prisma,astro,cs,unity&theme=light&perline=12" alt="JavaScript, TypeScript, React, Next.js, Node.js, PostgreSQL, MongoDB, Prisma, Astro, C#, and Unity" />
 </div>
 
 <div align="center">
-  <sub>JavaScript · TypeScript · React · Next.js · Node.js · Express · PostgreSQL · MongoDB · Prisma · Astro · C# · Unity</sub>
+  <sub>JavaScript · TypeScript · React · Next.js · Node.js · PostgreSQL · MongoDB · Prisma · Astro · C# · Unity</sub>
 </div>
 
 <br />
@@ -73,7 +73,7 @@ An AI document-intelligence demo for reviewing fund provisions and turning deadl
 
 `Next.js` `TypeScript` `PostgreSQL` `Prisma` `Auth.js` `Document Workflows`
 
-[Portfolio details](https://jaredryan.netlify.app/projects?project=lpa-tracker) · [Request a demo](mailto:jryantennis@gmail.com?subject=LPA%20Tracker%20Demo)
+[Request a demo](mailto:jryantennis@gmail.com?subject=LPA%20Tracker%20Demo) · [Portfolio details](https://jaredryan.netlify.app/projects?project=lpa-tracker)
 
 ---
 
@@ -103,10 +103,14 @@ A playful text-based browser RPG with exploration, inventory, combat, dialogue, 
 
 [Play](https://whenbunniesattack.netlify.app/) · [Source](https://github.com/jaredryan/when-bunnies-attack) · [Portfolio details](https://jaredryan.netlify.app/projects?project=when-bunnies-attack)
 
+---
+
 <br />
 
 <div align="center">
-  <strong>Building useful software is the work I want to keep doing.</strong>
+  <strong>If you want to see more, check out my portfolio! Or email me if you want to build something together.</strong>
   <br /><br />
-  <a href="https://jaredryan.netlify.app/">View my portfolio</a>
+  <a href="https://jaredryan.netlify.app/">Portfolio</a>
+  &nbsp;·&nbsp;
+  <a href="mailto:jryantennis@gmail.com">Email</a>
 </div>
