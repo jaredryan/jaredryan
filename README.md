@@ -9,13 +9,40 @@ I build polished, practical software for messy real-world workflows — the kind
 After software roles at IBM and MANTL, I spent several years building and operating a residential real estate portfolio. I’m now back to hands-on product development with a clearer sense of the work I want: roles where engineering, product judgment, and ownership belong together. AI helps me move faster, but I build step by step and review carefully for strong UX, clean code, and reliability.
 
 <div align="center">
-  <a href="https://jaredryan.netlify.app/">Portfolio</a>
-  &nbsp;·&nbsp;
-  <a href="https://jaredryan.netlify.app/resume/Jared_Ryan_Resume.pdf">Résumé</a>
-  &nbsp;·&nbsp;
-  <a href="https://www.linkedin.com/in/jared-m-ryan">LinkedIn</a>
-  &nbsp;·&nbsp;
-  <a href="mailto:jryantennis@gmail.com">Email</a>
+  <a href="https://jaredryan.netlify.app/">
+    <img src="https://img.shields.io/badge/Portfolio-2563EB?style=flat-square&logo=googlechrome&logoColor=white" alt="Portfolio" />
+  </a>
+  <a href="https://jaredryan.netlify.app/resume/Jared_Ryan_Resume.pdf">
+    <img src="https://img.shields.io/badge/Résumé-17345F?style=flat-square&logo=readme&logoColor=white" alt="Résumé" />
+  </a>
+  <a href="https://www.linkedin.com/in/jared-m-ryan">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:jryantennis@gmail.com">
+    <img src="https://img.shields.io/badge/Email-0F766E?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+</div>
+
+<br />
+
+## What I Bring
+
+**Product judgment** — I look beyond the requested feature to the workflow around it: what problem it solves, where it creates friction, and what should stay simple.
+
+**End-to-end ownership** — I’m comfortable carrying an idea from ambiguity through design, implementation, deployment, and refinement.
+
+**Practical communication** — I translate between technical systems, business needs, and the people using the product without treating any of them as an afterthought.
+
+<br />
+
+## Technologies
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,express,postgres,mongodb,prisma,astro,cs,unity&theme=light&perline=12" alt="JavaScript, TypeScript, React, Next.js, Node.js, Express, PostgreSQL, MongoDB, Prisma, Astro, C#, and Unity" />
+</div>
+
+<div align="center">
+  <sub>JavaScript · TypeScript · React · Next.js · Node.js · Express · PostgreSQL · MongoDB · Prisma · Astro · C# · Unity</sub>
 </div>
 
 <br />
@@ -75,28 +102,6 @@ A playful text-based browser RPG with exploration, inventory, combat, dialogue, 
 `React` `JavaScript` `CSS` `Game State` `Combat Logic` `Branching Dialogue`
 
 [Play](https://whenbunniesattack.netlify.app/) · [Source](https://github.com/jaredryan/when-bunnies-attack) · [Portfolio details](https://jaredryan.netlify.app/projects?project=when-bunnies-attack)
-
-<br />
-
-## Selected Technologies
-
-**Core professional experience**
-
-`JavaScript` `TypeScript` `React` `Node.js` `Express` `MongoDB`
-
-**Recent product work**
-
-`Next.js` `PostgreSQL` `Prisma` `Astro` `C#` `Unity`
-
-<br />
-
-## What I Bring
-
-**Product judgment** — I look beyond the requested feature to the workflow around it: what problem it solves, where it creates friction, and what should stay simple.
-
-**End-to-end ownership** — I’m comfortable carrying an idea from ambiguity through design, implementation, deployment, and refinement.
-
-**Practical communication** — I translate between technical systems, business needs, and the people using the product without treating any of them as an afterthought.
 
 <br />
 
