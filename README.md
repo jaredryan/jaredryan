@@ -1,5 +1,15 @@
 <div align="center">
-  <img src="assets/profile-banner.svg" width="100%" alt="Jared Ryan — Product-Minded Full-Stack Engineer" />
+  <picture>
+    <source
+      media="(max-width: 600px)"
+      srcset="assets/profile-banner-mobile.svg"
+    />
+    <img
+      src="assets/profile-banner.svg"
+      width="100%"
+      alt="Jared Ryan — Product-Minded Full-Stack Engineer"
+    />
+  </picture>
 </div>
 
 <br />

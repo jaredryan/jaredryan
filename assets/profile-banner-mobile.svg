@@ -1,0 +1,70 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="600" viewBox="0 0 1200 600" role="img" aria-labelledby="title desc">
+  <title id="title">Jared Ryan — Product-Minded Full-Stack Engineer</title>
+  <desc id="desc">Mobile banner version with larger, more readable copy and a simplified systems illustration.</desc>
+
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#09162D"/>
+      <stop offset="58%" stop-color="#0E2447"/>
+      <stop offset="100%" stop-color="#14335D"/>
+    </linearGradient>
+
+    <linearGradient id="bluePanel" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#2B68F0" stop-opacity="0.98"/>
+      <stop offset="100%" stop-color="#1847D5" stop-opacity="0.82"/>
+    </linearGradient>
+
+    <pattern id="grid" width="56" height="56" patternUnits="userSpaceOnUse">
+      <path d="M56 0 H0 V56" fill="none" stroke="#FFFFFF" stroke-opacity="0.045" stroke-width="1"/>
+    </pattern>
+
+    <filter id="shadow" x="-20%" y="-20%" width="140%" height="140%">
+      <feDropShadow dx="0" dy="10" stdDeviation="16" flood-color="#05101F" flood-opacity="0.34"/>
+    </filter>
+
+    <clipPath id="round">
+      <rect x="0" y="0" width="1200" height="600" rx="34"/>
+    </clipPath>
+  </defs>
+
+  <g clip-path="url(#round)">
+    <rect width="1200" height="600" fill="url(#bg)"/>
+    <rect width="1200" height="600" fill="url(#grid)"/>
+
+    <path d="M0 510 C140 472 244 536 382 516 C524 495 635 458 767 474 C890 489 1016 536 1200 465"
+          fill="none" stroke="#24D1C3" stroke-opacity="0.28" stroke-width="4"/>
+    <path d="M0 548 C136 516 272 575 420 562 C584 547 704 489 846 508 C993 528 1099 570 1200 510"
+          fill="none" stroke="#F97355" stroke-opacity="0.18" stroke-width="3"/>
+
+    <g filter="url(#shadow)">
+      <rect x="875" y="134" width="255" height="202" rx="30" fill="url(#bluePanel)"/>
+      <rect x="805" y="284" width="225" height="156" rx="26" fill="#0C1E38" stroke="#5F96FF" stroke-opacity="0.55" stroke-width="2"/>
+      <rect x="978" y="360" width="180" height="116" rx="24" fill="#0A1B34" stroke="#1DBFAD" stroke-opacity="0.7" stroke-width="2"/>
+
+      <circle cx="1108" cy="165" r="10" fill="#B9D3FF" fill-opacity="0.9"/>
+      <rect x="905" y="194" width="148" height="14" rx="7" fill="#FFFFFF" fill-opacity="0.86"/>
+      <rect x="905" y="230" width="168" height="9" rx="4.5" fill="#CFE1FF" fill-opacity="0.48"/>
+      <rect x="905" y="253" width="108" height="9" rx="4.5" fill="#CFE1FF" fill-opacity="0.34"/>
+
+      <circle cx="852" cy="354" r="14" fill="#2DD4BF"/>
+      <path d="M866 354 H924 C950 354 954 402 992 402 H1036" fill="none" stroke="#7FAAF6" stroke-opacity="0.72" stroke-width="4" stroke-linecap="round"/>
+
+      <circle cx="1104" cy="417" r="13" fill="#FF795A"/>
+      <path d="M1010 454 H1020 C1042 454 1045 417 1082 417 H1091" fill="none" stroke="#22C6B8" stroke-opacity="0.78" stroke-width="4" stroke-linecap="round"/>
+    </g>
+
+    <g font-family="Arial, Helvetica, sans-serif">
+      <rect x="88" y="94" width="82" height="6" rx="3" fill="#2563EB"/>
+      <rect x="180" y="94" width="30" height="6" rx="3" fill="#2DD4BF"/>
+      <rect x="220" y="94" width="18" height="6" rx="3" fill="#F97355"/>
+
+      <text x="90" y="157" fill="#AFCBFF" font-size="26" font-weight="700" letter-spacing="7">JARED RYAN</text>
+      <text x="90" y="275" fill="#FFFFFF" font-size="74" font-weight="700">Product-Minded</text>
+      <text x="90" y="371" fill="#FFFFFF" font-size="74" font-weight="700">Full-Stack Engineer</text>
+      <text x="90" y="452" fill="#C7D8EE" font-size="30" font-weight="400">Thoughtful workflows. Polished interfaces.</text>
+      <text x="90" y="492" fill="#C7D8EE" font-size="30" font-weight="400">Reliable systems.</text>
+    </g>
+  </g>
+
+  <rect x="1" y="1" width="1198" height="598" rx="33" fill="none" stroke="#7EA9E8" stroke-opacity="0.17" stroke-width="2"/>
+</svg>
